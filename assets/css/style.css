@@ -9,12 +9,12 @@ body{
     padding: 10px;
     background:cadetblue;  
     color: white;
-    /* font-size: 30px; */
+    margin: 0px 50px 0px 40px;
+    width: 70px;
+    height: 70px;
+    font-size: 5px;
 }
 
-/* #nav { 
-    width: 940px;
-    list-style: none;
-    overflow: hidden;
-    margin: -134px auto 25px;
-}  */
+ #nav { 
+    text-align: right;
+} 

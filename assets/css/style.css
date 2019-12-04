@@ -9,12 +9,24 @@ body{
     padding: 10px;
     background:cadetblue;  
     color: white;
-    margin: 0px 50px 0px 40px;
-    width: 70px;
-    height: 70px;
+    margin: 0px 0px 0px 40px;
+    width: 40%;
+    height: 50%;
     font-size: 5px;
+}
+
+.floater{
+    background: dimgray;
 }
 
  #nav { 
     text-align: right;
+    align-self: auto;
 } 
+#container {
+    background: #ffffff;
+}
+
+#box {
+    background: #ffffff;
+}

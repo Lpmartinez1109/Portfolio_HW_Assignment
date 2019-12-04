@@ -5,6 +5,13 @@ body{
     background-size: cover;
 }
 
+.header{
+    padding: 10px;
+    background:cadetblue;  
+    color: white;
+    /* font-size: 30px; */
+}
+
 /* #nav { 
     width: 940px;
     list-style: none;

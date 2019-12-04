@@ -1,3 +1,13 @@
 body{
     margin: 10px 50px 50px 40px;
+    background-image: url("../images/dark-honeycomb.png");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
+
+/* #nav { 
+    width: 940px;
+    list-style: none;
+    overflow: hidden;
+    margin: -134px auto 25px;
+}  */

@@ -1,4 +1,4 @@
-.header{
+.header {
     /* padding: 10px; */
     background:cadetblue;  
     color: white;
@@ -10,17 +10,20 @@
     margin-left: 12.35%;
 }
 
-body{
+body    {
     margin: 10px 50px 50px 40px;
     background-image: url("../images/dark-honeycomb.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
 
-#list {
+nav {
     background: #ffffff;
-    /* float: right; */
+    float: right;
+    width: auto;
+    height: 25%;
 }
+
 #container {    
     background: #ffffff;
     width: 100%;

@@ -14,6 +14,7 @@ body{
     height: 50%;
     font-size: 13px;
     float: left;
+    margin-left: 12.35%;
 }
 
 .footer{
@@ -21,9 +22,26 @@ body{
     position: fixed;
     left: 0;
     bottom: 0;
+    height: 11%;
     width: 100%;
     color: white;
     text-align: center;
+}
+.footer-banner {
+    background: cadetblue;
+    position: fixed;
+    left: 0;
+    height: 1%;
+    width: 100%;
+    margin-top: 16.7%;
+}
+.copyright {
+    color: white;
+    position: fixed;
+     /* left: 0; */
+    bottom: 0;
+    text-align: center;
+    clear: both;
 }
 
  ul#nav { 

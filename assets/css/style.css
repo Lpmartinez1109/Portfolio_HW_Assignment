@@ -1,13 +1,14 @@
 .header {
-    /* padding: 10px; */
-    background:red;  
+     padding: 10px;
+    background: cadetblue;  
     color: white;
-    /* margin: 0px 0px 0px 158px; */
+     margin: 0px 0px 0px 158px;
     width: 15%;
     height: 50%;
     font-size: 13px;
-    float: left;
-    margin-left: 12.35%;
+     float: left;
+     margin-left: 12.35%; 
+    
 }
 
 body    {
@@ -17,10 +18,9 @@ body    {
     background-size: cover;
 }
 
-nav {
-    background: #ffffff;
-    float: right;
-    width: auto;
+.navbar {
+    position: relative;
+    top: 0;
     height: 25%;
 }
 
@@ -29,7 +29,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color:#ffffff;
   }
   
   li {
@@ -38,7 +38,7 @@ ul {
   
   li a {
     display: block;
-    color: white;
+    color: black;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -51,7 +51,7 @@ ul {
     float: none;
     clear: both;
     box-sizing: border-box;
-    padding: 20px 25px;
+    padding: 0px 25px 20px 25px;
 
 }
 .footer-banner {
@@ -60,7 +60,8 @@ ul {
     left: 0;
     height: 1%;
     width: 100%;
-    margin-top: 17.8%;
+    /* margin-top: 17.8%; */
+    padding-top: 40px;
 }
 
 .footer{
@@ -68,10 +69,10 @@ ul {
     position: fixed;
     left: 0;
     bottom: 0;
-    height: 11%;
     width: 100%;
     color: white;
     text-align: center;
+    padding-top: 30px;
 }
 
 img {

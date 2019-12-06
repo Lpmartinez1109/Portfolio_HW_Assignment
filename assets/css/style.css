@@ -54,15 +54,7 @@ ul {
     padding: 0px 25px 20px 25px;
 
 }
-.footer-banner {
-    background: cadetblue;
-    position: fixed;
-    left: 0;
-    height: 1%;
-    width: 100%;
-    /* margin-top: 17.8%; */
-    padding-top: 40px;
-}
+
 
 .footer{
     background: dimgray;
@@ -72,7 +64,7 @@ ul {
     width: 100%;
     color: white;
     text-align: center;
-    padding-top: 30px;
+    padding-top: 40px;
 }
 
 img {

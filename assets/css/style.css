@@ -1,48 +1,29 @@
-.header {
-     padding: 10px;
-    background: cadetblue;  
-    color: white;
-     margin: 0px 0px 0px 158px;
-    width: 15%;
-    height: 50%;
-    font-size: 13px;
-     float: left;
-     margin-left: 12.35%; 
+header {
+    background: red;
+    display: inline;
+    padding: 30px;
+    position: relative;
+    top: -2px;
+    right: -120px;
     
 }
+div {
+  float: right;
+}
 
-body    {
-    margin: 10px 50px 50px 40px;
+body {
+    /* margin: 10px 50px 50px 40px; */
     background-image: url("../images/dark-honeycomb.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
 
-.navbar {
-    position: relative;
-    top: 0;
-    height: 25%;
+nav {
+    background: dimgray;
+    padding: 30px;
 }
 
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color:#ffffff;
-  }
-  
-  li {
-    float: right;
-  }
-  
-  li a {
-    display: block;
-    color: black;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-  }
+
   
 #box {
     background: #ffffff;
@@ -72,6 +53,22 @@ img {
     height: 150px;
 }
 
+.contact-detail{
+    background-color: #ffffff;
+    padding: 1px;
+    width: 99%;
+    margin-bottom: 10px;
+}
+
+.message-box {
+    background-color: white;
+    padding: 1px;
+    width: 99%;
+    /* height: 10px; */
+    /* font-size: 20px; */
+    margin-bottom: 20px;
+
+}
 
 
 

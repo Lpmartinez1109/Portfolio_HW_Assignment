@@ -40,5 +40,3 @@ A lot of the coding was trial and error and using inspect on the website page as
 ![Portfolio_HW_Index_Final.PNG](./assets/images/Portfolio_HW_Index_Final.PNG)
 
 ![Portfolio_HW_Portfoliot_Final.PNG](./assets/images/Portfolio_HW_Portfoliot_Final.PNG)
-
-![Portfolio_HW_Contact_Final.PNG](./assets/images/Portfolio_HW_Contact_Fix.PNG) 

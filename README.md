@@ -9,4 +9,6 @@ I started working on the indext.html file since once that was working it would b
 
 Once the inital code was typed up, I started to work on the style.css page, but ran in a few problems early on.
 
-![Portfolio_HW_First_Stage] (./assets/images/Portfolio_HW_First_Stage.PNG)
+The first issue was trying to get the image to fit instead taking up most of the screen.
+
+![Portfolio_HW_First_Stage.PNG](./assets/images/Portfolio_HW_First_Stage.PNG)
